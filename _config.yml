@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MUSA 550"
+title: "Portfolio"
 email:
-description: "Geospatial Data Science in Python"
+description: "digital portfolio"
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
@@ -55,34 +55,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Ran Wang"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Master in City Planning, University of Pennsylvania"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nickhand.dev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ran-wang-4a70611ab/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/inordia"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ran-wang-4a70611ab/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/inordia"
 
 # Defaults
 defaults:
